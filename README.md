@@ -9,4 +9,6 @@ read the HowTo.txt file for more info on how to use ur own images
 
 
 
-Im also making a compiled version of this
+Im also making a compiled version. well im not sure if compiled is the right word
+what i mean is
+convert this project to a .exe file and stuff
