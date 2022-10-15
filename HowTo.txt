@@ -1,0 +1,11 @@
+| HOW TO USE YOUR OWN IMAGES? |
+
+Drag Your Image Into this Folder then open Config.json with A Text Editor
+Then You will See "fullImgName" Put the Name of your file in quotes like this
+
+"catgirl.jpg" 
+best if you turn on file name extensions!
+
+| How to adjust Image Speed? |
+Go to Config.json then you will see speedX and speedY,
+Change both the numbers to your liking :)

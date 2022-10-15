@@ -1,0 +1,13 @@
+{
+    "iconProperties": [
+        {
+            "speedX" : 525,
+            "speedY" : 525
+        }
+    ],
+    "iconFile": [
+        {
+            "fullImgName" : "catgirl.jpg"
+        }
+    ]
+}
